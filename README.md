@@ -9,7 +9,9 @@
 
 
 ### 🚴🏿‍♂️ Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minny27&layout=compact)](https://github.com/Minny27/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minny27&layout=compact)](https://github.com/Minny27/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minny27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 🏅 Algorithm
