@@ -1,4 +1,4 @@
-안녕하세요. **iOS 개발**에 관심을 갖고 있는 🌱 새싹 개발자 이승민입니다.  
+안녕하세요. **iOS 개발자** 이승민입니다.  
 다양한 기술과 프레임워크를 활용해서 **더 나은 UI, UX 구현을 위해 고민하며**  
 **Swift**를 기반으로 **UIKit, Architecture Pattern, POP, Functional Programming**에 대해서 공부하고 있습니다.
 
