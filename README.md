@@ -13,7 +13,7 @@ always asking:
 
 ## 🛠 Tech Focus
 
-- **Swift** 
+- **Swift**  
 - UIKit & SwiftUI
 - Architecture Patterns (MVVM, Clean Architecture, TCA)
 - Functional Programming concepts
