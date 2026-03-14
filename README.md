@@ -11,7 +11,7 @@ always asking:
 
 ---
 
-## 🛠 Tech Focus
+## 🛠 Tech Focus 
 
 - **Swift**  
 - UIKit & SwiftUI
